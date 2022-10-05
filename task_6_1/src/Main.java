@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
-    public static double MagicBox(int type, double x, double n, double e){
+    public static double magicBox(int type, double x, double n, double e){
         double sum = 0;
         if (type == 3) return Math.log(1-x);
         for (double i = 1; i <= n; i++){
@@ -22,9 +22,9 @@ public class Main {
         System.out.print("Введите число e: ");
         double e = scan.nextDouble();
         scan.close();
-        System.out.println(MagicBox(0, x, n, e));
-        System.out.println(MagicBox(1, x, n, e));
-        System.out.println(MagicBox(2, x, n, e));
-        System.out.println(MagicBox(3, x, n, e));
+        System.out.println(magicBox(0, x, n, e));
+        System.out.println(magicBox(1, x, n, e));
+        System.out.println(magicBox(2, x, n, e));
+        System.out.println(magicBox(3, x, n, e));
     }
 }
