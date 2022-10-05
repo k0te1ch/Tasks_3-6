@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e975933f-44a9-4b14-8f98-cfa94c2e94ff" name="Changes" comment="Init" />
+    <list default="true" id="e975933f-44a9-4b14-8f98-cfa94c2e94ff" name="Changes" comment="Change .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664963646898</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create iml files to make project structure">
+      <created>1664964038457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664964038457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change .gitignore">
+      <created>1664964180546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664964180546</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -92,7 +106,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -103,6 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Create iml files to make project structure" />
+    <MESSAGE value="Change .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change .gitignore" />
   </component>
 </project>
